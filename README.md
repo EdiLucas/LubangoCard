@@ -1,2 +1,2 @@
-# LubangoCard
-Repositório do curso de bootstrap
+# Site simples com Bootstrap
+Primeiro repositório 
